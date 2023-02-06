@@ -1,4 +1,4 @@
-# movi
+# Simple API that generates Kanye Wests' phrases
 
 This template should help get you started developing with Vue 3 in Vite.
 
